@@ -18,9 +18,10 @@ PREREQUISITES
 INSTALLATION & SETUP
 --------------------
 
-1. Clone/Download the project
+0. Clone/Download the project
+1. git clone https://github.com/jhon6264/User-Management.git
 2. Install dependencies:
-   npm install
+   npm install (terminal)
 
 3. Database Setup:
    - Start XAMPP Control Panel
